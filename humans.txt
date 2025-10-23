@@ -1,6 +1,5 @@
 /* Website Design */
 
-
   Project: Academic Website Template
   Web Design and Development
 
