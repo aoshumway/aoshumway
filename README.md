@@ -1,1 +1,1 @@
-Hello world
+Greetings, welcome to the personal website for Dr. Andrew Shumway!
